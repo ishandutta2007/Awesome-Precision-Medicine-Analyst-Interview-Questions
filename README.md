@@ -50,6 +50,18 @@ This is a real, established (and rapidly growing) field, practiced within academ
 
 Contributions welcome, especially from people with real backgrounds in clinical genomics, bioinformatics, biostatistics, clinical informatics, or regulatory affairs. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
+## Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Precision-Medicine-Analyst-Interview-Questions&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Precision-Medicine-Analyst-Interview-Questions&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Precision-Medicine-Analyst-Interview-Questions&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Precision-Medicine-Analyst-Interview-Questions&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ## 📄 License
 
 [CC BY-SA 4.0](LICENSE) — free to use and adapt, with attribution, sharing improvements back under the same license.
