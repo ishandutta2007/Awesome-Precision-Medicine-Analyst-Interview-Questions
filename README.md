@@ -1,10 +1,12 @@
-# Precision Medicine Analyst — Interview Questions
+# 🧬 Precision Medicine Analyst — Interview Questions
+
+![Precision Medicine Analyst Banner](assets/banner.svg)
 
 A curated collection of interview questions (with answers) for **Precision Medicine Analyst** roles — analysts who work at the intersection of genomics, clinical data, biostatistics, and regulatory science to help tailor medical decisions (diagnosis, prognosis, treatment selection) to an individual patient's molecular, clinical, and sometimes lifestyle/environmental profile.
 
 This is a real, established (and rapidly growing) field, practiced within academic medical centers, pharmaceutical and biotech companies, diagnostic testing labs, health systems, and health-tech companies. The specific mix of skills varies significantly by employer — a role at a genomics lab looks different from one embedded in a clinical trial team or a health system's informatics group — but the questions here span the core competencies most such roles draw on: genomics and bioinformatics fundamentals, clinical and EHR data handling, biostatistics and study design, and the regulatory/clinical-translation considerations that separate a good analysis from one that's actually usable in patient care.
 
-> **Disclaimer:** This is a community knowledge base, not a certification or official curriculum. Answers aim to be technically sound and interview-appropriate — concise, structured, demonstrating reasoning — not exhaustive textbook chapters. Always verify current guidelines, regulations, and published literature for anything used in real practice; clinical and regulatory standards in this field change frequently.
+> ⚠️ **Disclaimer:** This is a community knowledge base, not a certification or official curriculum. Answers aim to be technically sound and interview-appropriate — concise, structured, demonstrating reasoning — not exhaustive textbook chapters. Always verify current guidelines, regulations, and published literature for anything used in real practice; clinical and regulatory standards in this field change frequently.
 
 ---
 
@@ -12,19 +14,19 @@ This is a real, established (and rapidly growing) field, practiced within academ
 
 | # | Category | File | Questions |
 |---|----------|------|-----------|
-| 1 | Genomics & Molecular Biology Fundamentals | [`questions/01-genomics-molecular-biology-fundamentals.md`](questions/01-genomics-molecular-biology-fundamentals.md) | 20 |
-| 2 | Bioinformatics & Sequencing Data Analysis | [`questions/02-bioinformatics-sequencing-data-analysis.md`](questions/02-bioinformatics-sequencing-data-analysis.md) | 16 |
-| 3 | Variant Interpretation & Clinical Genomics | [`questions/03-variant-interpretation-clinical-genomics.md`](questions/03-variant-interpretation-clinical-genomics.md) | 18 |
-| 4 | Clinical & EHR Data Analysis | [`questions/04-clinical-ehr-data-analysis.md`](questions/04-clinical-ehr-data-analysis.md) | 14 |
-| 5 | Biostatistics & Study Design | [`questions/05-biostatistics-study-design.md`](questions/05-biostatistics-study-design.md) | 18 |
-| 6 | Pharmacogenomics & Treatment Selection | [`questions/06-pharmacogenomics-treatment-selection.md`](questions/06-pharmacogenomics-treatment-selection.md) | 14 |
-| 7 | Biomarkers & Companion Diagnostics | [`questions/07-biomarkers-companion-diagnostics.md`](questions/07-biomarkers-companion-diagnostics.md) | 14 |
-| 8 | Data Privacy, Ethics & Regulatory | [`questions/08-data-privacy-ethics-regulatory.md`](questions/08-data-privacy-ethics-regulatory.md) | 14 |
-| 9 | Machine Learning in Precision Medicine | [`questions/09-machine-learning-precision-medicine.md`](questions/09-machine-learning-precision-medicine.md) | 12 |
-| 10 | System Design / Case Studies | [`questions/10-system-design-case-studies.md`](questions/10-system-design-case-studies.md) | 5 |
-| 11 | Behavioral & Cross-Functional | [`questions/11-behavioral-cross-functional.md`](questions/11-behavioral-cross-functional.md) | 14 |
+| 1 | 🧬 Genomics & Molecular Biology Fundamentals | [`questions/01-genomics-molecular-biology-fundamentals.md`](questions/01-genomics-molecular-biology-fundamentals.md) | 20 |
+| 2 | 💻 Bioinformatics & Sequencing Data Analysis | [`questions/02-bioinformatics-sequencing-data-analysis.md`](questions/02-bioinformatics-sequencing-data-analysis.md) | 16 |
+| 3 | 🔍 Variant Interpretation & Clinical Genomics | [`questions/03-variant-interpretation-clinical-genomics.md`](questions/03-variant-interpretation-clinical-genomics.md) | 18 |
+| 4 | 🏥 Clinical & EHR Data Analysis | [`questions/04-clinical-ehr-data-analysis.md`](questions/04-clinical-ehr-data-analysis.md) | 14 |
+| 5 | 📊 Biostatistics & Study Design | [`questions/05-biostatistics-study-design.md`](questions/05-biostatistics-study-design.md) | 18 |
+| 6 | 💊 Pharmacogenomics & Treatment Selection | [`questions/06-pharmacogenomics-treatment-selection.md`](questions/06-pharmacogenomics-treatment-selection.md) | 14 |
+| 7 | 🧪 Biomarkers & Companion Diagnostics | [`questions/07-biomarkers-companion-diagnostics.md`](questions/07-biomarkers-companion-diagnostics.md) | 14 |
+| 8 | ⚖️ Data Privacy, Ethics & Regulatory | [`questions/08-data-privacy-ethics-regulatory.md`](questions/08-data-privacy-ethics-regulatory.md) | 14 |
+| 9 | 🤖 Machine Learning in Precision Medicine | [`questions/09-machine-learning-precision-medicine.md`](questions/09-machine-learning-precision-medicine.md) | 12 |
+| 10 | 📐 System Design / Case Studies | [`questions/10-system-design-case-studies.md`](questions/10-system-design-case-studies.md) | 5 |
+| 11 | 🗣️ Behavioral & Cross-Functional | [`questions/11-behavioral-cross-functional.md`](questions/11-behavioral-cross-functional.md) | 14 |
 
-**Total: 159 questions with answers.**
+**Total: 159 questions with answers. 🎉**
 
 ---
 
